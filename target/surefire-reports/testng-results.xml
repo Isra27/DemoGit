@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="142" started-at="2020-11-20T13:51:51 CST" finished-at="2020-11-20T13:51:51 CST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="142" started-at="2020-11-20T13:51:51 CST" finished-at="2020-11-20T13:51:51 CST">
+      <class name="quickIsra.SeleniumpackTest">
+        <test-method status="PASS" signature="Browserauto()[pri:0, instance:quickIsra.SeleniumpackTest@627551fb]" name="Browserauto" duration-ms="1" started-at="2020-11-20T13:51:51 CST" finished-at="2020-11-20T13:51:51 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserauto -->
+        <test-method status="PASS" signature="ButtonAut()[pri:0, instance:quickIsra.SeleniumpackTest@627551fb]" name="ButtonAut" duration-ms="1" started-at="2020-11-20T13:51:51 CST" finished-at="2020-11-20T13:51:51 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ButtonAut -->
+      </class> <!-- quickIsra.SeleniumpackTest -->
+      <class name="quickIsra.selenium2Test">
+        <test-method status="PASS" signature="Browserauto()[pri:0, instance:quickIsra.selenium2Test@3701eaf6]" name="Browserauto" duration-ms="12" started-at="2020-11-20T13:51:51 CST" finished-at="2020-11-20T13:51:51 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserauto -->
+        <test-method status="PASS" signature="ButtonAut()[pri:0, instance:quickIsra.selenium2Test@3701eaf6]" name="ButtonAut" duration-ms="1" started-at="2020-11-20T13:51:51 CST" finished-at="2020-11-20T13:51:51 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ButtonAut -->
+      </class> <!-- quickIsra.selenium2Test -->
+      <class name="quickIsra.AppiumTest">
+        <test-method status="PASS" signature="Androiodnat()[pri:0, instance:quickIsra.AppiumTest@2b552920]" name="Androiodnat" duration-ms="1" started-at="2020-11-20T13:51:51 CST" finished-at="2020-11-20T13:51:51 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Androiodnat -->
+        <test-method status="PASS" signature="IOSNa()[pri:0, instance:quickIsra.AppiumTest@2b552920]" name="IOSNa" duration-ms="1" started-at="2020-11-20T13:51:51 CST" finished-at="2020-11-20T13:51:51 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSNa -->
+      </class> <!-- quickIsra.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
